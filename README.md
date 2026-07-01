@@ -16,4 +16,4 @@ Frameworks & Tools: React, React Native, Flutter, FastAPI, Vite.
 Let's Connect
 GitHub: nawacod
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/naol-shimelis-2a7626247
